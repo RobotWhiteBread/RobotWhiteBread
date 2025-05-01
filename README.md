@@ -1,6 +1,6 @@
 👋 Hi, I’m @RobotWhiteBread
 
-👀 I’m interested in: **Building & Applying LLMs for Environmental Intelligence, Environmental Policy, Data Science for Conservation, Nature-Based Solutions.
+👀 I’m interested in: Building & Applying LLMs for Environmental Intelligence, Environmental Policy, Data Science for Conservation, Nature-Based Solutions.
 
 🌱 I’m currently learning: Advanced Python for ML, PyTorch, TensorFlow, Hugging Face Transformers, Large-Scale Data Processing (e.g., Spark basics), Geospatial AI Techniques, Cloud ML Platforms. (Continuing with SQL & R too!)
 
