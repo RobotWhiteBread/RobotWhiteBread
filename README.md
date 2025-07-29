@@ -8,7 +8,7 @@
 
 📫 How to reach me ... Let’s connect if you’re working on LLMs for environmental science/policy, AI for good, climate tech, computational ecology, or public sector tech innovation.
 
-⚡ Fun facts: I collect vinyl records, support Liverpool FC, ride gravel discipline bikes, enjoy birding and being outdoors with my airedale terrier.
+⚡ Fun facts: I collect vinyl records, support Liverpool FC & University of Nebraska-Lincoln volleyball, ride gravel discipline bikes, enjoy birding, and being outdoors with my airedale terrier.
 
 <!---
 RobotWhiteBread/RobotWhiteBread is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
