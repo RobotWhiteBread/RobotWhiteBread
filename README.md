@@ -8,8 +8,6 @@
 
 📫 How to reach me ... Let’s connect if you’re working on LLMs for environmental science/policy, AI for good, climate tech, computational ecology, or public sector tech innovation.
 
-😄 Pronouns: he/him
-
 ⚡ Fun facts: I collect vinyl records, support Liverpool FC, ride gravel discipline bikes, enjoy birding and being outdoors, and spend time with my airedale terrier.
 
 <!---
