@@ -34,7 +34,7 @@ An audio-coaching application that scores user-produced game calls against refer
 ### 🛸📜 Document intelligence — NEXUS & ZodiacDeCode
 The same pipeline architecture pointed at large public document corpora instead of audio:
 
-- **NEXUS** ingests and analyzes the 2026 UAP records release — autonomous document acquisition, OCR and structured extraction into a relational schema, then spatial statistics, time-series decomposition, anomaly detection, and redaction-pattern analysis over the corpus.
+- **NEXUS** ingests and analyzes the 2026 UAP records release autonomous document acquisition, OCR and structured extraction into a relational schema, then spatial statistics, time-series decomposition, anomaly detection, and redaction-pattern analysis over the corpus.
 - **ZodiacDeCode** applies archival cross-referencing and cipher-structure analysis to the Zodiac case's public record, including period government registers and the cipher corpus.
 
 Both are exploratory research instruments. Hypotheses stay private until they're defensible.
