@@ -4,7 +4,7 @@
 
 I grew up working a Sand Hills cattle ranch, spent twelve years as a USDA NASS agricultural statistician, and now build AI-driven research pipelines from Lincoln, Nebraska. Fifteen-plus years of watching the Sandhill Crane migration on the Platte River is the field intuition underneath most of what's here.
 
-📍 Lincoln, NE · 🎓 MPA, Columbia SIPA · UNL School of Natural Resources Research Affiliate
+📍 Lincoln, NE · 🎓 MPA, Columbia SIPA · 
 🔗 [LinkedIn](https://www.linkedin.com/in/aaron-price-983a208) · ✉️ aaronprice@ganimaaudire.com
 
 ---
