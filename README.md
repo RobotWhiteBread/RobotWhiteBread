@@ -22,8 +22,8 @@ Every pipeline in this shop follows the same discipline, whether it's pointed at
 
 Results from active research are deliberately **not** posted here; they are held for peer review and publication. What follows is what the systems do, not what they've found.
 
-### GRUS: Sandhill Crane bioacoustics
-An end-to-end bioacoustic analysis pipeline for the Platte River crane migration: field recording, vocalization annotation (onsets/offsets, call types, liftoff events), feature extraction, and statistical analysis across a multi-million-frame audio corpus. Grounded in annotated field sessions at Rowe Sanctuary, with a public-listening installation concept ("Voices of the Platte") in development. Manuscripts in preparation. A small public demo of the basic annotation workflow, run on an openly licensed recording, lives in [crane-annotation-demo](https://github.com/RobotWhiteBread/crane-annotation-demo).
+### [GRUS](https://github.com/RobotWhiteBread/GRUS): crane bioacoustics
+An active research program on North American crane vocalizations, covering the full path from original field recording through annotation to analysis. Methods and results are held for peer review and deliberately not described in detail here. A small public demo of the general annotation workflow, built on openly licensed audio and textbook methods, lives in [crane-annotation-demo](https://github.com/RobotWhiteBread/crane-annotation-demo).
 
 ### GINGER: computational taxonomy
 What began as the reproducible deep-learning taxonomy pipeline in [the public GINGER repo](https://github.com/RobotWhiteBread/GINGER) has grown into a full discovery-and-validation platform: multi-method feature extraction, statistical review, benchmark harnesses against public botanical datasets, and a defensibility layer (claims ledger, blind locks, negative controls, power analysis, release gates) built so a taxonomic claim has to earn its way out of the pipeline. Applied casework is underway with university collaborators; results held for peer review.
@@ -31,13 +31,10 @@ What began as the reproducible deep-learning taxonomy pipeline in [the public GI
 ### WildEcho
 An audio-coaching application that scores user-produced game calls against reference recordings: music-lesson feedback loops applied to waterfowl and wildlife calling. Built with the UNL Senior Design Program; presented at Techstars Founder Catalyst.
 
-### Document intelligence: NEXUS and ZodiacDeCode
-The same pipeline architecture pointed at large public document corpora instead of audio.
+### Document intelligence: [NEXUS](https://github.com/RobotWhiteBread/NEXUS) and [ZodiacDeCode](https://github.com/RobotWhiteBread/ZodiacDeCode)
+The same architecture pointed at large public document corpora instead of audio. A bulk records release is a dataset, not a reading assignment, and measurement scales in a way close reading does not.
 
-- **NEXUS** ingests and analyzes the 2026 UAP records release: autonomous document acquisition, OCR and structured extraction into a relational schema, then spatial statistics, time-series decomposition, anomaly detection, and redaction-pattern analysis over the corpus.
-- **ZodiacDeCode** applies archival cross-referencing and cipher-structure analysis to the Zodiac case's public record, including period government registers and the cipher corpus.
-
-Both are exploratory research instruments. Hypotheses stay private until they're defensible.
+Both are exploratory instruments in private development. Methods and findings are not published, and hypotheses stay private until they are defensible. ZodiacDeCode in particular concerns a case with real victims and real families; it names no persons of interest, now or later.
 
 ## Tools
 
@@ -48,7 +45,7 @@ Two pieces of the working method, generalized and published on their own:
 
 ## Stack
 
-`Python` · `R` · `PyTorch` · `scikit-learn` · `librosa` · `Raven` · `pandas` · `Postgres/Parquet` · `Docker` · `GitHub Actions` · `AWS` · `SAS` · `SQL`
+`Python` · `R` · `PyTorch` · `scikit-learn` · `librosa` · `pandas` · `Postgres/Parquet` · `Docker` · `GitHub Actions` · `AWS` · `SAS` · `SQL`
 
 ---
 
